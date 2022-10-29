@@ -1,6 +1,6 @@
 # projeto-site-html-basico
 projetos em HMTL
-Projeto criado utilizando mais tags e imagens em HTML 
+Projeto de estudos utilizando mais tags e imagens em HTML 
 
 >Requisitos<
 
